@@ -8,3 +8,9 @@
 03 - Computer Vision (Миша Савельев)
 
 04 - Работа с текстами. Dataloaders, 1d Convs
+
+05 - RNN, LSTM, GRU
+
+06 - Seq2Seq, Attention, Transformers
+
+07 - BERTology
